@@ -12,7 +12,6 @@ class UserCreation{
     }
 }
 
-
 class Word //Each Word Contains a TimesCompleted value which indicates how many times the user has correctly passed off a word.
 (   var Word: String = "",
     var NumberOfTimesCompleted: Int = 0
